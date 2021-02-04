@@ -16,7 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Material-UI](https://img.shields.io/badge/-Material-UI-333333?style=flat&logo=material-ui&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
@@ -37,4 +37,4 @@
 
 
 
-⭐️ From [Funnysai](https://github.com/phanisairachapudi)
+⭐️ From [Phani Sai](https://github.com/phanisairachapudi)
