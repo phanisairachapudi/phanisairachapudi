@@ -28,12 +28,12 @@
 <br/>
 
 <a href="https://github.com/phanisairachapudi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Funnysai&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funnysai&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phanisairachapudi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisairachapudi&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
 
 
-⭐️ From [Funnysai](https://github.com/Funnysai)
+⭐️ From [Funnysai](https://github.com/phanisairachapudi)
