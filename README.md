@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at Bharath University.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🎓 &nbsp; Studying Computer Science at Bharath University.
+- 🌱 &nbsp; Learning more about MERN Stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
