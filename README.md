@@ -28,12 +28,6 @@
 
 <br/>
 
-<a href="https://github.com/phanisairachapudi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phanisairachapudi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanisairachapudi&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 
 
